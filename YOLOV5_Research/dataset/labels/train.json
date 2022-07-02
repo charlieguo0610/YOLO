@@ -1,0 +1,90 @@
+{
+    "images": [
+        {
+            "file_name": "1.jpeg",
+            "height": 606,
+            "width": 909,
+            "id": 1
+        }
+    ],
+    "type": "instances",
+    "annotations": [
+        {
+            "area": 3870,
+            "iscrowd": 0,
+            "image_id": 1,
+            "bbox": [
+                427,
+                180,
+                86,
+                45
+            ],
+            "category_id": 1,
+            "id": 1,
+            "ignore": 0,
+            "segmentation": []
+        },
+        {
+            "area": 2331,
+            "iscrowd": 0,
+            "image_id": 1,
+            "bbox": [
+                544,
+                183,
+                63,
+                37
+            ],
+            "category_id": 1,
+            "id": 2,
+            "ignore": 0,
+            "segmentation": []
+        },
+        {
+            "area": 5555,
+            "iscrowd": 0,
+            "image_id": 1,
+            "bbox": [
+                462,
+                307,
+                101,
+                55
+            ],
+            "category_id": 2,
+            "id": 3,
+            "ignore": 0,
+            "segmentation": []
+        },
+        {
+            "area": 4484,
+            "iscrowd": 0,
+            "image_id": 1,
+            "bbox": [
+                491,
+                243,
+                76,
+                59
+            ],
+            "category_id": 3,
+            "id": 4,
+            "ignore": 0,
+            "segmentation": []
+        }
+    ],
+    "categories": [
+        {
+            "supercategory": "none",
+            "id": 1,
+            "name": "eye"
+        },
+        {
+            "supercategory": "none",
+            "id": 2,
+            "name": "mouth"
+        },
+        {
+            "supercategory": "none",
+            "id": 3,
+            "name": "nose"
+        }
+    ]
+}
